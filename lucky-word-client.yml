@@ -1,2 +1,4 @@
 ---
-lucky-word: Sri, Atlanta, IBM, Architect
+wordConfig:
+  luckyWord: Sri, Atlanta, IBM, Architect
+  preamble: The lucky word is
